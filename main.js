@@ -24,7 +24,7 @@ Webcam.attach(camera);
 }
 
 
-webcam.set({
+Webcam.set({
     width:320,
     height:240,
     image_format : 'png',
